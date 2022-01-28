@@ -1,5 +1,6 @@
 # nexus-schemaorg
 
+This project is archived.
 
 ## Funding and Acknowledgments
 
